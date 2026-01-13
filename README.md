@@ -99,11 +99,11 @@ NEXT_PUBLIC_API_BASE – URL of the deployed backend API
 4. Set your environment variables in `.env` files (like MongoDB URI)
 
 ## Live URLs
-- Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- Frontend: [https://your-frontend.vercel.app](https://notice-assignment.vercel.app/)
+- Backend: [https://your-backend.onrender.com](https://notice-5yx1.onrender.com)
 
 ## GitHub Repository
-[https://github.com/your-username/Notice_assignment](https://github.com/your-username/Notice_assignment)
+[https://github.com/your-username/Notice_assignment](https://github.com/Ganga-halligerimath/Notice_assignment)
 
 
 Backend
